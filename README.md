@@ -33,7 +33,7 @@ A campus-based web application that helps users report, track, and manage lost i
 🛠 Tech Stack:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb" />
 </p>
 
 ---
@@ -47,7 +47,7 @@ A web application with authentication, role-based access, and an admin dashboard
 🛠 Tech Stack:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,ts,tailwind,js,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,js,nodejs,express,mongodb" />
 </p>
 
 ---
@@ -91,7 +91,7 @@ Explore all my work here:
   <a href="https://www.linkedin.com/in/imran-endris-26b0103a2">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-LinkedIn: https://www.linkedin.com/in/imran-endris-26b0103a2   
+LinkedIn:https://www.linkedin.com/in/imran-endris-26b0103a2   
 </p>
 
 <p align="left">
