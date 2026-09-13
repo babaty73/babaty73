@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://imran-idris.vercel.app">Portfolio</a> •
+  <a href="https://imran-endris.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/imran-endris-26b0103a2">LinkedIn</a> •
   <a href="mailto:imranidris10999@gmail.com">Email</a>
 </p>
