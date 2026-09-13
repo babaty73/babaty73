@@ -28,69 +28,8 @@ I work across the stack with **React, TypeScript, Node.js, Express, MongoDB, and
 
 ---
 
-## Featured Projects
 
-### Qemer Market
 
-A full-stack e-commerce platform for a real business, featuring product management, cart functionality, admin dashboard, image uploads, and WhatsApp/Telegram ordering.
-
-**Stack:** React · TypeScript · Node.js · Express · MongoDB
-
-🔗 **Live:** https://kemer-shopping.vercel.app
-
----
-
-### Bloom-Care
-
-A healthcare platform designed to help people in Ethiopia find medicines available at nearby pharmacies and compare availability and prices.
-
-**Stack:** React · TypeScript · Tailwind CSS · Node.js · MongoDB
-
-🔗 **Live:** https://bloom-cares.vercel.app
-
----
-
-### ASTU Bootcamp Management System
-
-A full-stack role-based system for managing students, mentors, attendance, assignments, grading, announcements, calendars, dashboards, and reports.
-
-**Stack:** React · Node.js · Express · MongoDB · JWT
-
-🔗 **Live:** https://astumsj-bootcamp-management-system.vercel.app
-
----
-
-### Lost & Found
-
-A campus platform for reporting, discovering, and managing lost and found items.
-
-**Stack:** React · Node.js · Express · MongoDB
-
-🔗 **Live:** https://lost-and-found-six-theta.vercel.app
-
----
-
-### Appointment Booking
-
-A full-stack appointment booking system with authentication, role-based access, bookings, and an admin dashboard.
-
-**Stack:** React · Node.js · Express · MongoDB
-
-🔗 **Live:** https://appointment-booking-app11.vercel.app
-
----
-
-## What I Build
-
-* Full-stack web applications
-* Business websites & MVPs
-* E-commerce platforms
-* Admin dashboards
-* REST APIs & database systems
-* Authentication & role-based applications
-* Responsive, production-ready interfaces
-
----
 
 ## Let's Connect
 
