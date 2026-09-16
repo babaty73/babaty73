@@ -16,7 +16,7 @@
 
 I'm a **Full-Stack Web Developer** who builds modern, responsive web applications that solve real-world problems.
 
-I work across the stack with **React, TypeScript, Node.js, Express, MongoDB, and REST APIs**.
+I work across the stack with **React, TypeScript, Tailwind CSS, Node.js, Express, MongoDB, and REST APIs**.
 
 ---
 
