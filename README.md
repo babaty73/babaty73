@@ -28,8 +28,13 @@ I work across the stack with **React, TypeScript, Tailwind CSS, Node.js, Express
 
 ---
 
+## GitHub Status
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=babaty73&theme=tokyonight&hide_border=true" />
+</p>
 
+---
 
 ## Let's Connect
 
@@ -37,8 +42,4 @@ I work across the stack with **React, TypeScript, Tailwind CSS, Node.js, Express
   <a href="https://imran-endris.vercel.app">Portfolio</a> •
   <a href="https://www.linkedin.com/in/imran-endris-26b0103a2">LinkedIn</a> •
   <a href="mailto:imranidris10999@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babaty73&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
