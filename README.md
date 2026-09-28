@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Web Developer** who builds modern, responsive web applications that solve real-world problems.
+I'm a **Full-Stack Web Developer** who builds modern and responsive web applications that solve real-world problems.
 
 ---
 
