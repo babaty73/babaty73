@@ -1,7 +1,7 @@
 # Hi, I'm Imran Endris 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+TypeScript+%7C+Node.js+%7C+MongoDB;I+Build+Web+Apps+That+Help+Businesses+Grow" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=00C2FF&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;React+%7C+Next.js+%7C+TypeScript+%7C+TailwindCSS+%7C+MongoDB;I+Build+Web+Apps+That+Help+Businesses+Grow" />
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@ I'm a **Full-Stack Web Developer** who builds modern and responsive web applicat
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,nodejs,express,mongodb,git,github,vercel,render" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,nodejs,express,mongodb,git,github,vercel,render" />
 </p>
 
 ---
