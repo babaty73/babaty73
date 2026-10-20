@@ -26,14 +26,6 @@ I'm a **Full-Stack Web Developer** who builds modern and responsive web applicat
 
 ---
 
-## GitHub Status
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=babaty73&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## Let's Connect
 
 <p align="center">
